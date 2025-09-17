@@ -1,61 +1,27 @@
-# Sketchli Organization Profile
+# Sketchli
 
-Welcome to the official GitHub organization profile for **Sketchli** - innovative design and development solutions that bring your ideas to life.
+Welcome to the official GitHub organization for **Sketchli**.
 
-## 🌐 GitHub Pages Site
+## About
 
-This repository hosts our organization's GitHub Pages site, available at: [https://sketchlihq.github.io](https://sketchlihq.github.io)
+This README file is designed to contain information from the Sketchli website (https://www.sketchli.com). 
 
-### Features
+Since the website content was not accessible during the initial setup, this file serves as a placeholder that can be updated with specific information about:
 
-- **Responsive Design**: Fully responsive layout that works on all devices
-- **Modern UI**: Clean, professional design with smooth animations
-- **Interactive Elements**: Engaging user interface with hover effects and transitions
-- **Contact Form**: Functional contact form for inquiries
-- **SEO Optimized**: Proper meta tags and semantic HTML structure
+- Company overview and mission
+- Products and services
+- Team information
+- Contact details
+- Recent updates and announcements
 
-### Technologies Used
+## Website
 
-- HTML5
-- CSS3 (with Flexbox and Grid)
-- Vanilla JavaScript
-- Font Awesome Icons
-- Google Fonts (Inter)
-- Jekyll for GitHub Pages
+Visit our main website at: [https://www.sketchli.com](https://www.sketchli.com)
 
-### Sections
+## Contact
 
-1. **Hero Section**: Eye-catching introduction with call-to-action buttons
-2. **About**: Information about our mission and core values
-3. **Services**: Overview of our design and development services
-4. **Team**: Meet our talented team members
-5. **Contact**: Get in touch with us
-
-### Local Development
-
-To run this site locally:
-
-1. Clone the repository
-2. Open `index.html` in your browser
-3. For Jekyll development:
-   ```bash
-   bundle install
-   bundle exec jekyll serve
-   ```
-
-### Customization
-
-The site is designed to be easily customizable:
-
-- Update content in `index.html`
-- Modify styles in `styles.css`
-- Add interactive features in `script.js`
-- Configure site settings in `_config.yml`
-
-### Contributing
-
-This is the official organization profile. For contributions or suggestions, please contact the Sketchli team.
+For more information about Sketchli, please visit our website or contact us through the channels listed there.
 
 ---
 
-**© 2024 Sketchli. All rights reserved.**
+*This README will be updated with content from the Sketchli website. Please provide the specific information you'd like to include from https://www.sketchli.com.*
